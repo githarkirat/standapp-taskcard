@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544113109718",
+    "project_id": "sitdowntodo",
+    "storage_bucket": "sitdowntodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544113109718:android:3c03b7ada7e7f7b00a7777",
+        "android_client_info": {
+          "package_name": "com.standapp.taskcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544113109718-9cb5ephkv22idgnk7svtk748gddvf388.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.standapp.taskcard",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "544113109718-alugkb1tdfvqauiav1crcs2mrkt2u59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7M--rcgZ7OjnJHwEF8XCaQ2KHtDOHep0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544113109718-alugkb1tdfvqauiav1crcs2mrkt2u59b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544113109718-v94908888l1bfqeglqbbgr2o4fpfmmsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.standapp.taskcard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

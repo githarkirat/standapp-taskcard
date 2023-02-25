@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544113109718-v94908888l1bfqeglqbbgr2o4fpfmmsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544113109718-v94908888l1bfqeglqbbgr2o4fpfmmsm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>544113109718-9cb5ephkv22idgnk7svtk748gddvf388.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWN0WNcZ0RIqeEJ62fBM4TJlkZZnIfrJU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544113109718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.standapp.taskcard</string>
+	<key>PROJECT_ID</key>
+	<string>sitdowntodo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sitdowntodo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544113109718:ios:5030bae6fde9b0320a7777</string>
+</dict>
+</plist>
